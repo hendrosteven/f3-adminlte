@@ -1,0 +1,1 @@
+$("#tblData").dataTable();
