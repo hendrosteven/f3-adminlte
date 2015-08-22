@@ -11,6 +11,7 @@ This is Fatfree Framework (f3) project template that integrated with AdminLTE te
 [http://f3-adminlte.hendrosteven.in](http://f3-adminlte.hendrosteven.in "Demo link")
 
 User : hendro.steven@gmail.com
+
 Pass : admin
 
 ![](https://raw.githubusercontent.com/hendrosteven/f3-adminlte/master/screen.png)
